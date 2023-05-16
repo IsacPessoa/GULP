@@ -1,0 +1,1 @@
+const teste=10,teste02=15,result=teste+teste02;
